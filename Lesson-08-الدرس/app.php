@@ -7,5 +7,4 @@ header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers
 
 $data = file_get_contents("php://input");
 print_r("Coder Shiyar");
-print_r($_POST);
 ?>
